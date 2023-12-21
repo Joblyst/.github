@@ -1,1 +1,2 @@
-# .github
+# Joblyst
+Indonesia grapples with a persistent unemployment challenge, exacerbated by rapid population growth and high density, with a record 5.45% unemployment rate in February 2023, according to Badan Pusat Statistik. In response, our project aims to develop a mobile app connecting job seekers with opportunities, addressing both urban and rural unemployment. Committed to leveraging technology for societal progress, our dedicated team envisions empowering individuals, fostering economic growth, and contributing to a substantial reduction in Indonesia's unemployment rates. The application seeks to assist users in finding jobs aligned with their expertise, addressing a critical need in the job market.
